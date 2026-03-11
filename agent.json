@@ -179,11 +179,6 @@
   ],
   "gateways": [
     {
-      "platform": "slack",
-      "name": "Slack \u2014 OyaAI-Testing",
-      "is_active": true
-    },
-    {
       "platform": "kubernetes",
       "name": "Kubernetes \u2014 a2abaseai (15 namespaces)",
       "is_active": true
