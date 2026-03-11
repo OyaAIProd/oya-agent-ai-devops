@@ -179,13 +179,13 @@
   ],
   "gateways": [
     {
-      "platform": "kubernetes",
-      "name": "Kubernetes \u2014 a2abaseai (15 namespaces)",
+      "platform": "sentry",
+      "name": "Sentry \u2014 BelArabyAI",
       "is_active": true
     },
     {
-      "platform": "sentry",
-      "name": "Sentry \u2014 BelArabyAI",
+      "platform": "slack",
+      "name": "Slack \u2014 OyaAI",
       "is_active": true
     }
   ],
